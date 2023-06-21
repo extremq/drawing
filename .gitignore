@@ -1,2 +1,4 @@
 node_modules
 .config.ini
+package-lock.json
+dist
